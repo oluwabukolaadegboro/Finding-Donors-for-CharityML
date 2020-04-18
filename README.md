@@ -14,7 +14,7 @@ The following software and python libraries were used.
 The [Jupter Notebook](https://jupyter.readthedocs.io/en/latest/install.html) was used to execute this project. 
 
 ### Project Evaluation
-The [Finding Donors for CharityML project rubric](Finding Donors for CharityML project rubric.pdf) was used to evaluate this project.
+The [Finding Donors for CharityML project rubric](https://review.udacity.com/#!/rubrics/406/view) was used to evaluate this project.
 
 #### Tutorials:
 [Finding Donors for CharityML](https://towardsdatascience.com/finding-donors-for-charityml-project-e0f4a59dcea0) Project authored by Simone Rigoni.
