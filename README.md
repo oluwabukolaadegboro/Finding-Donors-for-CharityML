@@ -11,10 +11,7 @@ The following software and python libraries were used.
 - [scikit-learn(v0.17)](https://scikit-learn.org/0.17/install.html)
 - [Matplotlib](https://matplotlib.org/) </ol>
 
-The [Jupter Notebook](https://jupyter.readthedocs.io/en/latest/install.html) was used to execute this project. 
+[Jupter Notebook](https://jupyter.readthedocs.io/en/latest/install.html) was used to execute this project. 
 
 ### Project Evaluation
 The [Finding Donors for CharityML project rubric](https://review.udacity.com/#!/rubrics/406/view) was used to evaluate this project.
-
-#### Tutorials:
-[Finding Donors for CharityML](https://towardsdatascience.com/finding-donors-for-charityml-project-e0f4a59dcea0) Project authored by Simone Rigoni.
