@@ -1,17 +1,11 @@
 ## Finding-Donors-for-CharityML
 
-### Project Description:
-CharityML, a fictitious charity organization that was established to provide financial support for people eager to learn machine learning.They determined that every donation they received came from someone that was making more than $50,000 annually. To expand their potential donor base, CharityML has decided to send letters to only those most likely to donate to the charity. The goal is to evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield while also reducing the total number of letters being sent.
+In this project, I applied my knowledge of supervised learning techniques to identify the top potential donors for a charity organization company, CharityML. This minimizes the donation letters to be sent to potential donors.
 
-### Project Requirement:
-The following software and python libraries were used.
-- [Python](https://www.python.org/downloads/release/python-364/)
-- [NumPy](https://numpy.org/)
-- [pandas](https://pandas.pydata.org/)
-- [scikit-learn(v0.17)](https://scikit-learn.org/0.17/install.html)
-- [Matplotlib](https://matplotlib.org/) </ol>
+The dataset contains approximately 32,000 data points, with each datapoint having 13 features. This includes; age, workclass, education_level, education-num, marital-status, occupation, relationship, race, sex, capital-gain, capital-loss, hours-per-week, and native-country. The goal is to determine income earners earning $50,000 or more anually. Hence the target in this case is the income.
 
-[Jupter Notebook](https://jupyter.readthedocs.io/en/latest/install.html) was used to execute this project. 
+Note that the visual.py python file as well as the census.csv dataset file will be required to complete this work. 
 
-### Project Evaluation
-The [Finding Donors for CharityML project rubric](https://review.udacity.com/#!/rubrics/406/view) was used to evaluate this project.
+At the end of the project, I was able to evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield while also reducing the total number of letters being sent.
+
+@Udacity Machine Learning Introduction Nanodegree
