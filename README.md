@@ -1,4 +1,4 @@
-## Finding-Donors-for-CharityML
+# Finding-Donors-for-CharityML
 
 In this project, I applied my knowledge of supervised learning techniques to identify the top potential donors for a charity organization company, CharityML. This minimizes the donation letters to be sent to potential donors.
 
