@@ -1,6 +1,6 @@
 # Finding-Donors-for-CharityML
 
-In this project, I applied my knowledge of supervised learning techniques to identify the top potential donors for a charity organization company, CharityML. The goal of the project is to minimize the donation letters to be sent to potential donors.
+This constitutes part of my Udacity Machine Learning Nanodegree program. In this project, I applied my knowledge of supervised learning techniques to identify the top potential donors for a charity organization company, CharityML. The goal of the project is to build a model which accurately predicts individuals with income greater than $50,000. This is used to identify potential donors for the organization and hence minimize donation letters to be sent.
 
 The dataset contains approximately 32,000 data points, with each datapoint having 13 features.
 
